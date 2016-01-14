@@ -1,0 +1,2132 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x4b6f40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x4b6f40" />
+  <item nodeId="node-0x4b6f40">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Whatever progress you had made in this night&apos;s vision is forgotten to you by now, and your illusionary avatar is fading from your mind&apos;s eye. Bright colors flash and flow before your eyes as you sink back to reality. You open your eyes and you can see the carved ceiling of your hut.  You are lying on the ground in the center of the hut, and feel incredibly weak and drowsy. You have awakened far too early from your vision quest, and need to rest before trying to move. 
+Lifebound
+An Interactive Fiction by Benjamin Strick
+Release 1 / Serial number 150422 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">NO</temporary>
+    <children>
+      <child nodeId="node-0x4b9f40" />
+      <child nodeId="node-0x4baf00" />
+      <child nodeId="node-0x4b74b0" />
+      <child nodeId="node-0x4babf0" />
+      <child nodeId="node-0x4b6fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b6fe0">
+    <command xml:space="preserve">burn toad</command>
+    <result xml:space="preserve">You don&apos;t need or want any more of that right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7050" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7050">
+    <command xml:space="preserve">touch totem</command>
+    <result xml:space="preserve">You immediately feel invigorated by the energy emitted through the pale rock.  Suddenly you feel that you could stand up, albeit carefully.  The totem itself looks brighter than usual....that indicates that perhaps Windwhisper has come to visit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b70c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b70c0">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You get off the Woven Mat.
+
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7170" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7170">
+    <command xml:space="preserve">unlock leather</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b71d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b71d0">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7240" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7240">
+    <command xml:space="preserve">take necklace</command>
+    <result xml:space="preserve">The necklace disintegrates before your eyes as you bring it near the jungle cat.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7330" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7330">
+    <command xml:space="preserve">kick out cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem and a Leather Lockbox (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7380" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7380">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b73d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b73d0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+You tremble as you see the lifeless and scorched body of one you once knew so well.  Perhaps this was the only possible outcome.... was this your fault for having the bone effigy in the first place?
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7440" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7440">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  You are days too late, and the dark spirit has already used your items to incinerate everyone here. Your heart sinks as you realize what has happened. However, you are shortly assailed by an irrestible surge of victory. Tension built up for years is released as you realize the ties to your past have been cut. 
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="268">YES</temporary>
+  </item>
+  <item nodeId="node-0x4babf0">
+    <command xml:space="preserve">examine essence of the jungle toad</command>
+    <result xml:space="preserve">This controversial substance is used to engage on psychedelic spirit journeys.  Local toads with bright coloring have been used for this purpose for as long as anyone can remember.  One must burn the toad&apos;s skin and inhale the residue to get the desired effect…. Some spiritual visions can last for days.  This type of use is not for the faint of heart however, and is generally shunned by common-folk along with other potentially evil things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bac60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bac60">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You are too drowsy from your unfinished vision to stand yet.  There are lingering colors blinking in and out of existence, and the eerie whispers of lost ancestors still echo in your mind.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bacd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bacd0">
+    <command xml:space="preserve">grab</command>
+    <result xml:space="preserve">(the Buffalo Hide Robe)
+Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bad40" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bad40">
+    <command xml:space="preserve">capture</command>
+    <result xml:space="preserve">(the Buffalo Hide Robe)
+Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4badb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4badb0">
+    <command xml:space="preserve">inspect insidous artifact</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bae20" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bae20">
+    <command xml:space="preserve">inspect insidious artifact</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="701">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bae90" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bae90">
+    <command xml:space="preserve">examine insidious artifact</command>
+    <result xml:space="preserve">A remnant of an ancient time that can be used to cause a burst of shadowy purple flame, incinerating flesh and bone alike.  You recall discovering this deep in the tomb of an primeval tribal leader during your travels. Whoever forged this unique weapon had nothing but destruction on their mind.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="700">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b74b0">
+    <command xml:space="preserve">touch totem</command>
+    <result xml:space="preserve">You immediately feel invigorated by the energy emitted through the pale rock.  Suddenly you feel that you could stand up, albeit carefully.  The totem itself looks brighter than usual....that indicates that perhaps Windwhisper has come to visit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b75e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b75e0">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You get off the Woven Mat.
+
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9a00" />
+      <child nodeId="node-0x4b9840" />
+      <child nodeId="node-0x4b93e0" />
+      <child nodeId="node-0x4b72d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b72d0">
+    <command xml:space="preserve">open lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8f10" />
+      <child nodeId="node-0x4b7650" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7650">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7c30" />
+      <child nodeId="node-0x4b77a0" />
+      <child nodeId="node-0x4b76c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b76c0">
+    <command xml:space="preserve">take necklace</command>
+    <result xml:space="preserve">The necklace disintegrates before your eyes as you bring it near the jungle cat.  Only an evil aura could break the soul magic involved in such an item.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something about the intruder&apos;s aural energy tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="370">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7730" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7730">
+    <command xml:space="preserve">give effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="369">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b77a0">
+    <command xml:space="preserve">use necklace</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7810" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7810">
+    <command xml:space="preserve">give necklace</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Lifebind Necklace)
+The necklace disintegrates before your eyes as you bring it near the jungle cat.  Only an evil aura could break the soul magic involved in such an item.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something about the intruder&apos;s aural energy tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7880" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7880">
+    <command xml:space="preserve">give effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7520" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7520">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs west toward the path to the village where you were born.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7570" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7570">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7a70" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7a70">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7ae0">
+    <command xml:space="preserve">incinerate bone effigy</command>
+    <result xml:space="preserve">You need the Insidious Artifact to incinerate something.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7b50">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a Bone Effigy
+  a Transient Orb
+  a Buffalo Hide Robe (being worn)
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="353">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7bc0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="352">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b7c30">
+    <command xml:space="preserve">examine orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+A wave of confusion washes over you as you witness the abyssal color of your orb.  There must be evil nearby.  As you turn to look at the devious feline, you meet it&apos;s eyes and realize all too late what has happened. It gives you an oddly human look that tells you all you need to know.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something about the intruder&apos;s aural energy tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8ce0" />
+      <child nodeId="node-0x4b8a40" />
+      <child nodeId="node-0x4b78f0" />
+      <child nodeId="node-0x4b7ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7ca0">
+    <command xml:space="preserve">use orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7d10">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">You should deal with this deceptive dark spirit that seeks the power of your rare soul magic first.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7d80">
+    <command xml:space="preserve">bind cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7df0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7e60">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="381">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7ed0">
+    <command xml:space="preserve">enter woven mat</command>
+    <result xml:space="preserve">You just need some sleep.  Perhaps the loss of those destructive items is a good thing for you.  Did the spirit perhaps use them to destroy your old village? You don&apos;t care one way or another.  Going outside to investigate would just mean more problems. Maybe time for some more Essence of the Jungle Toad.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="380">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b78f0">
+    <command xml:space="preserve">give effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7960" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7960">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs west toward the path to the village where you were born.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b79d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b79d0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8180" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8180">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b81f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b81f0">
+    <command xml:space="preserve">go east</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8260" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8260">
+    <command xml:space="preserve">go east</command>
+    <result xml:space="preserve">
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b82d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b82d0">
+    <command xml:space="preserve">go south</command>
+    <result xml:space="preserve">
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8340" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8340">
+    <command xml:space="preserve">enter woven mat</command>
+    <result xml:space="preserve">You just need some sleep.  The evil spirit wants your help to destroy the village, but you can&apos;t bring yourself to do it.  The cat won&apos;t hurt you... you are just as evil on the inside as it is.  You just have a semblance of self-control.  Maybe time for some more Essence of the Jungle Toad.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b83b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b83b0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+Whatever progress you had made in this night&apos;s vision is forgotten to you by now, and your illusionary avatar is fading from your mind&apos;s eye. Bright colors flash and flow before your eyes as you sink back to reality. You open your eyes and you can see the carved ceiling of your hut.  You are lying on the ground in the center of the hut, and feel incredibly weak and drowsy. You have awakened far too early from your vision quest, and need to rest before trying to move. 
+Lifebound
+An Interactive Fiction by Benjamin Strick
+Release 1 / Serial number 150422 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8420" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8420">
+    <command xml:space="preserve">touch totem</command>
+    <result xml:space="preserve">You immediately feel invigorated by the energy emitted through the pale rock.  Suddenly you feel that you could stand up, albeit carefully.  The totem itself looks brighter than usual....that indicates that perhaps Windwhisper has come to visit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8490" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8490">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You get off the Woven Mat.
+
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8500" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8500">
+    <command xml:space="preserve">open lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8570" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8570">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b85e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b85e0">
+    <command xml:space="preserve">examine orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+A wave of confusion washes over you as you witness the abyssal color of your orb.  There must be evil nearby.  As you turn to look at the devious feline, you meet it&apos;s eyes and realize all too late what has happened. It gives you an oddly human look that tells you all you need to know.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something about the intruder&apos;s aural energy tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8650" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8650">
+    <command xml:space="preserve">give effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b86c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b86c0">
+    <command xml:space="preserve">go n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs west toward the path to the village where you were born.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8730" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8730">
+    <command xml:space="preserve">go w</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b87a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b87a0">
+    <command xml:space="preserve">eat fleshy root</command>
+    <result xml:space="preserve">(first taking the Fleshy Root)
+After consuming the bitter root, you can feel an abstract shield of power come together across your body and soul. This natural ingredient is truly amazing and will shield you from dark spirits for a few hours.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8810" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8810">
+    <command xml:space="preserve">go w</command>
+    <result xml:space="preserve">
+Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8880" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8880">
+    <command xml:space="preserve">incinerate cat</command>
+    <result xml:space="preserve">You need the Insidious Artifact to incinerate something.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7f40">
+    <command xml:space="preserve">go e</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b7fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b7fb0">
+    <command xml:space="preserve">go e</command>
+    <result xml:space="preserve">
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8020" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8020">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8090" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8090">
+    <command xml:space="preserve">take artifact</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8100" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8100">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs west toward the path to the village where you were born.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+You can see Windwhisper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b88f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b88f0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8960" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8960">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="340">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b89d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b89d0">
+    <command xml:space="preserve">incinerate cat</command>
+    <result xml:space="preserve">You attempt to savagely burn the body of the Baby Jungle Panther with the Insidious Artifact.  The body evaporates in the inferno instantly, but a formless shape arises from where the cat once was.  However, after ingesting the strange power of the Fleshy Root, you are spirit protected.  You can sense the presence of the dying ancestor as it tries to crawl its way into your mind and soul.  Had you not stopped to eat the root, you know you would have met a morbid fate by now at the hands of this vengeful spirit.  Although conspiring with it to take vengeance upon those who wronged you in your past seemed appetizing, something within you knew that this malevolent being had to be stopped.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b8a40">
+    <command xml:space="preserve">grab cat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8ab0">
+    <command xml:space="preserve">approach cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8b20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8b90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8c00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  You are days too late, and the dark spirit has already used your Insidious Artifact on the Bone Effigy to incinerate everyone here. Your heart sinks as you realize that you have been bested by the dark spirit. However, you are shortly assailed by an irrestible surge of victory. Tension built up for years is released as you realize the ties to your past have been cut. 
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8c70">
+    <command xml:space="preserve">take insidious artifact</command>
+    <result xml:space="preserve">
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="363">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b8ce0">
+    <command xml:space="preserve">kick cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="307">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8d50">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="307">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8dc0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="307">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8e30">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  You are days too late, and the dark spirit has already used your Insidious Artifact on the Bone Effigy to incinerate everyone here. Your heart sinks as you realize that you have been bested by the dark spirit. However, you are shortly assailed by an irrestible surge of victory. Tension built up for years is released as you realize the ties to your past have been cut. 
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="307">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8ea0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="306">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b8f10">
+    <command xml:space="preserve">take boen effigy</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8f80">
+    <command xml:space="preserve">take effigy</command>
+    <result xml:space="preserve">You&apos;d prefer not to grab that if you don&apos;t have to. It is an object of undescribable evil and it unnerves you to touch it. Yet, you keep it near by just in case....
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b8ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b8ff0">
+    <command xml:space="preserve">examine transient orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is earthen. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9060" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9060">
+    <command xml:space="preserve">take bone effigy</command>
+    <result xml:space="preserve">You&apos;d prefer not to grab that if you don&apos;t have to. It is an object of undescribable evil and it unnerves you to touch it. Yet, you keep it near by just in case....
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b90d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b90d0">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9140" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9140">
+    <command xml:space="preserve">take bone effigy</command>
+    <result xml:space="preserve">Your soul trembles at the sheer evil of this human shaped fetish.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b91b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b91b0">
+    <command xml:space="preserve">examine orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+A wave of confusion washes over you as you witness the abyssal color of your orb.  There must be evil nearby.  As you turn to look at the devious feline, you meet it&apos;s eyes and realize all too late what has happened. It gives you an oddly human look that tells you all you need to know.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something about the intruder&apos;s aural energy tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9220" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9220">
+    <command xml:space="preserve">give effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9290" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9290">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs west toward the path to the village where you were born.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9300" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9300">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9370" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9370">
+    <command xml:space="preserve">go w</command>
+    <result xml:space="preserve">
+Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="296">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b93e0">
+    <command xml:space="preserve">open leather lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9450" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9450">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b94c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b94c0">
+    <command xml:space="preserve">take lifebind necklace</command>
+    <result xml:space="preserve">The necklace disintegrates before your eyes as you bring it near the jungle cat.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9530" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9530">
+    <command xml:space="preserve">kick cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem and a Leather Lockbox (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b95a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b95a0">
+    <command xml:space="preserve">touch totem</command>
+    <result xml:space="preserve">You immediately feel invigorated by the energy emitted through the pale rock.  Suddenly you feel that you could stand up, albeit carefully.  The totem itself looks brighter than usual....that indicates that perhaps Windwhisper has come to visit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9610" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9610">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9680" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9680">
+    <command xml:space="preserve">examine transient orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b96f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b96f0">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9760" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9760">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b97d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b97d0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  Your heart sinks as you realize what has happened, but a small smile appears on your face.
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="258">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b9840">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="247">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b98b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b98b0">
+    <command xml:space="preserve">unlock lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="247">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9920" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9920">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="247">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9990" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9990">
+    <command xml:space="preserve">capture cat</command>
+    <result xml:space="preserve">Attack it with what? It is already injured enough as is! That could result in a bite, also. A dark thought pops into to mind for just one moment...You could always incinerate it. You push the thought down to a deeper part of your consciousness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="246">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b9a00">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9a70" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9a70">
+    <command xml:space="preserve">open lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9ae0">
+    <command xml:space="preserve">take orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9b50">
+    <command xml:space="preserve">take lifebind necklace</command>
+    <result xml:space="preserve">The necklace disintegrates before your eyes as you bring it near the jungle cat.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something tells you this dark spirit is not here for your LIFE, but something else...It&apos;s time to make a move.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9bc0">
+    <command xml:space="preserve">attack cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem and a Leather Lockbox (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9c30">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9ca0">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9d10">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  You are days too late, and the dark spirit has already used your items to incinerate everyone here. Your heart sinks as you realize what has happened. However, you are shortly assailed by an irrestible surge of victory. Tension built up for years is released as you realize the ties to your past have been cut. 
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9d80">
+    <command xml:space="preserve">go east</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+This path leads to the village where you were born, and were exiled from long ago.
+
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9df0">
+    <command xml:space="preserve">go east</command>
+    <result xml:space="preserve">
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9e60">
+    <command xml:space="preserve">go south</command>
+    <result xml:space="preserve">
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, a Stone Totem and a Leather Lockbox (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="283">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9ed0">
+    <command xml:space="preserve">get in mat</command>
+    <result xml:space="preserve">You get onto the Woven Mat.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="282">YES</temporary>
+  </item>
+  <item nodeId="node-0x4baf00">
+    <command xml:space="preserve">take insidious artifact</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="561">YES</temporary>
+    <children>
+      <child nodeId="node-0x4baf70" />
+    </children>
+  </item>
+  <item nodeId="node-0x4baf70">
+    <command xml:space="preserve">incinerate bone effigy</command>
+    <result xml:space="preserve">You wouldn&apos;t release the purple flame of this instrument onto an item you value.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="560">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b9f40">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You are too drowsy from your unfinished vision to stand yet.  There are lingering colors blinking in and out of existence, and the eerie whispers of lost ancestors still echo in your mind.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b9fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b9fb0">
+    <command xml:space="preserve">touch stone totem</command>
+    <result xml:space="preserve">You immediately feel invigorated by the energy emitted through the pale rock.  Suddenly you feel that you could stand up, albeit carefully.  The totem itself looks brighter than usual....that indicates that perhaps Windwhisper has come to visit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba020" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba020">
+    <command xml:space="preserve">open leather lockbox</command>
+    <result xml:space="preserve">That is too far away from your resting place to reach right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba800" />
+      <child nodeId="node-0x4ba090" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba090">
+    <command xml:space="preserve">take transient orb</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba100" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba100">
+    <command xml:space="preserve">examine transient orb</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba170" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba170">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You get off the Woven Mat.
+
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba1e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba1e0">
+    <command xml:space="preserve">open leather lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba250" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba250">
+    <command xml:space="preserve">take transient orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba2c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba2c0">
+    <command xml:space="preserve">examine transient orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+A wave of confusion washes over you as you witness the abyssal color of your orb.  There must be evil nearby.  As you turn to look at the devious feline, you meet it&apos;s eyes and realize all too late what has happened. It gives you an oddly human look that tells you all you need to know.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something tells you this dark spirit is not here for YOUR life, but something else...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba330" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba330">
+    <command xml:space="preserve">give bone effigy</command>
+    <result xml:space="preserve">(to Baby Jungle Panther)
+(first taking the Bone Effigy)
+Baby Jungle Panther doesn&apos;t seem interested.
+
+You share a glance of dark understanding with the being that stands before you.  It is time for vengeance against those who once spurned you.  The cat runs out of your hut and beckons for you to follow.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba3a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba3a0">
+    <command xml:space="preserve">go n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs toward the path to the village where you were born.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba410" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba410">
+    <command xml:space="preserve">go s</command>
+    <result xml:space="preserve">
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba480" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba480">
+    <command xml:space="preserve">get in woven mat</command>
+    <result xml:space="preserve">You just need some sleep.  The evil spirit wants your help to destroy the village, but you can&apos;t bring yourself to do it.  The cat won&apos;t hurt you... you are just as evil on the inside as it is.  You just have a semblance of self-control.  Maybe time for some more Essence of the Jungle Toad.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba4f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba4f0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Shaman&apos;s Hut
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba560" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba560">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba5d0">
+    <command xml:space="preserve">take insidious artifact</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba640" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba640">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Your dark ally looks at you, then runs toward the path to the village where you were born.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba6b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba6b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You have tread this path many times.  You almost feel as if you cannot stop yourself, and that you are being led to an unwanted fate. Nonetheless, it feels right.  Perhaps this spirit isn&apos;t so dark, and these humans deserve death.  Your lover should have come after you. Your parents should have intervented and saved you. The other townspeople? What do you care about those?  It is time to follow the jungle cat into the village and take action.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba720" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba720">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Path to the Painted Village
+Seeing this place brings back both good and bad memories.  No more than sixty or seventy reside here, and surely your parents and former lover are among them.  You wonder if the old Shaman who once exiled you is still alive.  A deep and commanding voice fills your head.  It does not speak in clear words, but you understand what it wants you to do.  The spirit has already bound the souls of the entire village to the Bone Effigy.  It is up to you to deal with them.  A fierce image of the Insidious Artifact manifests itself in your mind, and visions of purple flame and screaming souls overwhelm you. You know what to do.
+
+You can see Baby Jungle Panther and a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="559">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba790" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba790">
+    <command xml:space="preserve">incinerate bone effigy</command>
+    <result xml:space="preserve">You wouldn&apos;t release the purple flame of this instrument onto an item you value.
+
+You engulf the effigy in the blast of violet energy from the ancient artifact.  Simultaneously, screams rise as a purple inferno erupts from inside the body of each person in the village.  You watch in horror and glee as townsfolk crash to the ground, their bodies turned to dust. A familar face flashes in front of your eyes... your lover! It is she! A violet heart shatters within her soul right in front you, and she falls to the ground.  Your eyes meet one final time.  What have you done?
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="558">YES</temporary>
+  </item>
+  <item nodeId="node-0x4ba800">
+    <command xml:space="preserve">stand</command>
+    <result xml:space="preserve">You get off the Woven Mat.
+
+Shaman&apos;s Hut
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Woven Mat, a Crackling Fire, an Insidious Artifact, a Bone Effigy, an Essence of the Jungle Toad, a Stone Totem, a Leather Lockbox (closed) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba870" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba870">
+    <command xml:space="preserve">open leather lockbox</command>
+    <result xml:space="preserve">You open the Leather Lockbox, revealing a Transient Orb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba8e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba8e0">
+    <command xml:space="preserve">take transient orb</command>
+    <result xml:space="preserve">Taken.
+
+A small, wounded Baby Jungle Panther slinks through the doorway to your hut.  It&apos;s back is wounded and bloody, and it limps pathetically toward you.  Its eyes are full of confusion and desperation.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba950" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba950">
+    <command xml:space="preserve">examine transient orb</command>
+    <result xml:space="preserve">It is a spherical object to commune with ancestral spirits for advice. All who call themselves a shaman in these lands possess one of these, for what is a shaman without ancestors to call upon?  Anyone with basic knowledge of shamanism could make one of these out of any object.  It is usually the color of earth, but can also turn black as night when it detects malignant intentions in those whose auras are clearly altered by their attempts to lie or deceive. Right now, your orb is black. 
+
+A wave of confusion washes over you as you witness the abyssal color of your orb.  There must be evil nearby.  As you turn to look at the devious feline, you meet it&apos;s eyes and realize all too late what has happened. It gives you an oddly human look that tells you all you need to know.
+
+Suddenly, you feel sure that this is a dark ancestral spirit inhabiting the body of this unfortunate jungle panther, and that it jealously desires the destruction of those living.  But something tells you this dark spirit is not here for YOUR life, but something else...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4ba9c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4ba9c0">
+    <command xml:space="preserve">attack cat</command>
+    <result xml:space="preserve">The cat reacts swiftly and swats all of your reminaing Essence of the Jungle Toad into the Crackling Fire.  The entire batch is set alight and your hut begins to fill with an overbearing smell that you know all too well.  You reach out to grab the cat, but before you can do anything a wave of ethereal images and voices assails your mind.  Before all goes dark, you feel a pang of fear as you realize just how much Essence you have inhaled... nearly one hundred fold the reccomended amount.
+
+Shaman&apos;s Hut (on the Woven Mat)
+The hut has no furniture, and your important possessions are placed neatly on the floor.  A fire is crackling and the yearning starlight filters through the smoke chimney in your roof.  Local insects chirp and the sound of a rushing wind can be heard against the fabric of the tent.
+
+You can see a Crackling Fire, a Stone Totem, a Leather Lockbox (empty) and a Lifebind Necklace here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4baa30" />
+    </children>
+  </item>
+  <item nodeId="node-0x4baa30">
+    <command xml:space="preserve">go n</command>
+    <result xml:space="preserve">(first getting off the Woven Mat)
+You slowly snap back to reality, as otherworldy clouds, voices, and colors in your mind&apos;s eye fade.  It is night once again.  You experience a strange feeling of Deja Vu due to waking up from what was the most intense vision quest you have ever experienced.  In fact, you barely remember any of it... you just know it was more powerful than any other you&apos;ve had. Something in your soul feels fundamentally altered.  You feel an odd mix of terror, vengeance, and urgency; suddenly you recall past events with the supposed panther cub. You look around in panic as you notice your Bone Effigy and Insidious Artifact are missing. You feel an additional spike of confusion as your solar calculations tell you that days have passed since you were last awake.
+
+Jungle Enclave
+You can feel the pulse of the jungle&apos;s raw mass of life in your bones.  Somewhere deep in your mind you are aware of the jungle denizen&apos;s hopeless struggle for prolonged existence.  Beasts, insects, and humans combined radiate out a desperate energy from their souls that you have learned to tune out. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4baaa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4baaa0">
+    <command xml:space="preserve">go w</command>
+    <result xml:space="preserve">
+The Path to the Painted Village
+You can see a Fleshy Root here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bab10" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bab10">
+    <command xml:space="preserve">go w</command>
+    <result xml:space="preserve">
+Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  Your heart sinks as you realize what has happened, but a small smile appears on your face.
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="625">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bab80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bab80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Village
+Purple flame and smoke ravage the landscape.  A scent of death and soul energy tinges your nose.  Your heart sinks as you realize what has happened, but a small smile appears on your face.
+
+You can see an Insidious Artifact here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="624">YES</temporary>
+  </item>
+</Skein>
